@@ -11,5 +11,6 @@ Soy Constantin, pero me puedes llamar Costin😉. Soy un desarrollador de aplica
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ## Contacto
-Email : [devcostin@gmail.com](mailto:devcostin@gmail.com) \n
+Email : [devcostin@gmail.com](mailto:devcostin@gmail.com)
+===============
 Instagram : [@devcostin](https://www.instagram.com/devcostin/)
