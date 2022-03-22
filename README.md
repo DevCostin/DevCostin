@@ -1,5 +1,7 @@
 # Hello there 👋
 
+Soy Constantin, pero me puedes llamar Costin😉. Soy un desarrollador de aplicaciones apasionado por el mundo de la tecnología, que porfin acaba de empezar el gran camino de un programador. Puedes ver mi portofolio en [devcostin.es](http://www.devcostin.es/) o [devcostin.com](http://www.devcostin.com/)
+
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
