@@ -6,4 +6,4 @@
 ## Contacto
 * Email : [devcostin@gmail.com](mailto:devcostin@gmail.com)
 * Instagram : [@devcostin](https://www.instagram.com/devcostin/)
-
+* LinkedIn : [Constantin Teodorescu](https://www.linkedin.com/in/constantin-teodorescu-876501206/)
