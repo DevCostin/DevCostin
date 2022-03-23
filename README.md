@@ -55,9 +55,8 @@
 </div>
 
 ## Contacto
-<div align="center" style="display: inline_block">
-  <a href="mailto:devcostin@gmail.com"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" width="40" height="40"></a>
+<div align="left" style="display: inline_block">
+  <a href="https://www.instagram.com/devcostin/"><img src="https://github.com/detain/svg-logos/blob/master/svg/instagram-2-1.svg" alt="devcostin" title="devcostin" width="50" height="50"></a>
+  <a href="mailto:devcostin@gmail.com"><img src="https://github.com/gilbarbara/logos/blob/master/logos/google-gmail.svg" alt="devcostin@gmail.com" title="devcostin@gmail.com" width="50" height="50"></a>
+  <a href="https://www.linkedin.com/in/constantin-teodorescu-876501206/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Constantin Teodorescu" title="Constantin Teodorescu" width="50" height="50"></a>
 </div>
-* Email : [devcostin@gmail.com](mailto:devcostin@gmail.com)
-* Instagram : [@devcostin](https://www.instagram.com/devcostin/)
-* LinkedIn : [Constantin Teodorescu](https://www.linkedin.com/in/constantin-teodorescu-876501206/)
