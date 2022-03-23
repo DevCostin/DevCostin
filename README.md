@@ -24,6 +24,7 @@
   <!---->
   <br/>
   <br/>
+  <hr/>
   <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/androidstudio.svg" alt="Android Studio" title="Android Studio" width="40" height="40">
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" title="Kotlin" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" title="SQLite" width="40" height="40"/>
