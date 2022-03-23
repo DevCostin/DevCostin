@@ -55,6 +55,9 @@
 </div>
 
 ## Contacto
+<div align="center" style="display: inline_block">
+  <a href="mailto:devcostin@gmail.com"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" width="40" height="40"></a>
+</div>
 * Email : [devcostin@gmail.com](mailto:devcostin@gmail.com)
 * Instagram : [@devcostin](https://www.instagram.com/devcostin/)
 * LinkedIn : [Constantin Teodorescu](https://www.linkedin.com/in/constantin-teodorescu-876501206/)
