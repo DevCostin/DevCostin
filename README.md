@@ -3,9 +3,12 @@
 
 >Soy Constantin, pero me puedes llamar Costin😉. Soy un desarrollador de aplicaciones apasionado por el mundo de la tecnología, que porfin acaba de empezar el gran camino de un programador. Puedes ver mi portofolio en [devcostin.es](http://www.devcostin.es/) o [devcostin.com](http://www.devcostin.com/).
 
-## Lenguajes y herramientas
+## Lenguajes, herramientas y tecnologias
 <div align="center" style="display: inline_block"><br>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="XML" title="XML" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" title="json" width="40" height="40"/>
+
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" title="HTML5" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" title="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript" title="Javascript" width="40" height="40"/>
