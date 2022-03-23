@@ -8,7 +8,6 @@
   <!---->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" title="NetBeans" width="40" height="40">
   <img src="https://github.com/get-icon/geticon/blob/master/icons/eclipse.svg" alt="Eclipse" title="Eclipse" width="40" height="40">
-  <img src="" alt="" title="" width="40" height="40">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="XML" title="XML" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" title="json" width="40" height="40"/>
@@ -30,10 +29,17 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" title="SQLite" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySql" title="MySql" width="40" height="40">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" width="40" height="40">
+  <!---->
+  <br/>
+  <br/>
+  <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="Xcode" title="Xcode" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" title="Swift" width="40" height="40">
+  <!---->
   <br/>
   <br/>
   <img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio.svg" alt="Visual Studio" title="Visual Studio" width="40" height="40">
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#" title="C#" width="40" height="40">
+  <img src="https://github.com/detain/svg-logos/blob/master/svg/xamarin.svg" alt="Xamarin" title="Xamarin" width="40" height="40">
 </div>
 
 ## Contacto
