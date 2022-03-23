@@ -51,6 +51,12 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" title="SQLite" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySql" title="MySql" width="40" height="40">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" width="40" height="40">
+  <br/>
+  <br/>
+
+  <!--Robotica-->
+  <img src="https://github.com/detain/svg-logos/blob/master/svg/arduino-1.svg" alt="Arduino" title="Arduino" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="Processing" title="Processing" width="40" height="40">
 
 </div>
 
